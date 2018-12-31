@@ -1,6 +1,6 @@
 {
   "name": "eslint-haixue-antd",
-  "version": "0.0.1-beta.0",
+  "version": "0.0.1-rc.0",
   "description": "",
   "main": "index.js",
   "scripts": {
