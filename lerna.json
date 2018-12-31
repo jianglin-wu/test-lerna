@@ -5,9 +5,10 @@
   "changelog": {
     "repo": "jianglin-wu/test-lerna",
     "labels": {
-      "bugfix": "Bug fix",
-      "enhancement": "Enhancement",
-      "feature": "New Feature"
+      "bugfix": ":bug: Bug Fix",
+      "enhancement": ":rocket: Enhancement",
+      "feature": "New Feature",
+      "doc": "Refine Doc"
     },
     "cacheDir": ".changelog"
   },
