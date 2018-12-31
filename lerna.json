@@ -6,7 +6,8 @@
     "repo": "jianglin-wu/test-lerna",
     "labels": {
       "tag: bugfix": "Bug fix",
-      "tag: enhancement": "Enhancement"
+      "tag: enhancement": "Enhancement",
+      "tag: feature": "Feature"
     },
     "cacheDir": ".changelog"
   },
