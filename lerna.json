@@ -7,8 +7,8 @@
     "labels": {
       "bugfix": ":bug: Bug Fix",
       "enhancement": ":rocket: Enhancement",
-      "feature": "New Feature",
-      "doc": "Refine Doc"
+      "feature": "Feature",
+      "doc": "Doc"
     },
     "cacheDir": ".changelog"
   },
