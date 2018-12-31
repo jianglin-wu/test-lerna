@@ -7,7 +7,7 @@
     "labels": {
       "bugfix": "Bug fix",
       "enhancement": "Enhancement",
-      "feature": "Feature"
+      "feature": "New Feature"
     },
     "cacheDir": ".changelog"
   },
