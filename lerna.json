@@ -2,5 +2,13 @@
   "packages": [
     "packages/*"
   ],
+  "changelog": {
+    "repo": "jianglin-wu/test-lerna",
+    "labels": {
+      "tag: bugfix": "Bug fix",
+      "tag: enhancement": "Enhancement"
+    },
+    "cacheDir": ".changelog"
+  },
   "version": "0.0.1-beta.0"
 }
